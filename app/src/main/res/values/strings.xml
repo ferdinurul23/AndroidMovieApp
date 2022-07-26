@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MADESubmission1</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="deskripsi_singkat">Deskripsi Singkat</string>
+    <string name="tahun">Tahun</string>
+    <string name="overview">Overview :</string>
+    <string name="isi_deskripsi">Isi Deskripsi</string>
+    <string name="katalog_title">MOVIES CATALOGUE</string>
+    <string name="detail_title">MOVIE DETAIL</string>
+    <string name="year">Year :</string>
+</resources>
